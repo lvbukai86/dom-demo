@@ -1,0 +1,11 @@
+10
+28D:\code\dom-demo\src\main.js132843450471738494 0
+21D:\code\dom-demo\dist132843451717823025 1
+20D:\code\dom-demo\src132843436947689479 1
+43D:\code\dom-demo\dist\index.26a40173.js.map132843444095746113 0
+27D:\code\dom-demo\src\dom.js132843444094813981 0
+31D:\code\dom-demo\src\index.html132843451716278182 0
+39D:\code\dom-demo\dist\index.26a40173.js132843444095726074 0
+43D:\code\dom-demo\dist\index.65c7a1e5.js.map132843450472601975 0
+39D:\code\dom-demo\dist\index.65c7a1e5.js132843450472591988 0
+32D:\code\dom-demo\dist\index.html132843451717812992 0
